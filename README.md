@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Surya Settipalli - Java Full Stack Developer</title>
 </head>
 <body>
 
@@ -10,12 +11,12 @@
   <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=surya200901&label=Profile%20views&color=0e75b6&style=flat" alt="surya200901" />
+    <img src="https://komarev.com/ghpvc/?username=surya200901&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
 
-  <p align="left" class="trophy-section">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=surya200901&theme=onedark" alt="surya200901" />
+  <p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+      <img src="https://github-profile-trophy.vercel.app/?username=surya200901&theme=onedark" alt="GitHub Trophy" />
     </a>
   </p>
 
@@ -43,10 +44,14 @@
     <a href="https://github.com/surya200901" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub" />
     </a>
+    <a href="https://surya200901.github.io/Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-blueviolet?logo=google-chrome&style=for-the-badge" alt="Portfolio" />
+    </a>
   </p>
 
   <h3 align="left">Languages and Tools:</h3>
-  <p align="left" class="skill-icons">
+  <p align="left">
+    <!-- same skill icons as before -->
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
@@ -79,10 +84,12 @@
     </a>
   </p>
 
-  <div align="center" class="stats-boxes">
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya200901&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=surya200901&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya200901" alt="Streak Stats" />
+    <br/>
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya200901" alt="GitHub Streak" />-->
   </div>
 
 </body>
