@@ -28,7 +28,7 @@
 
   <ul>
     <li>🔭 I’m currently working on <strong>Java Spring Boot Projects</strong></li>
-    <li>🌱 I’m currently learning <strong>C++ and MLOps</strong></li>
+<!--     <li>🌱 I’m currently learning <strong>C++ and MLOps</strong></li> -->
     <li>👯 I’m looking to collaborate on <strong>Full Stack Java Projects</strong></li>
     <li>🤝 I’m looking for help with <strong>Machine Learning</strong></li>
     <li>💬 Ask me about <strong>Java, Spring Boot, MySQL, HTML, CSS, JavaScript</strong></li>
