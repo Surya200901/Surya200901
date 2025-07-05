@@ -7,7 +7,7 @@
 <body>
 
   <h1 align="center">Hi 👋, I'm Surya Settipalli</h1>
-  <h3 align="center">A passionate Java Full Stack Developer from India</h3>
+  <h3 align="center">A passionate Java Full Stack & c++ Developer from India</h3>
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=surya200901&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
