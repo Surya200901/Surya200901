@@ -4,92 +4,52 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body>
+<body style="font-family: Arial, sans-serif; background-color: #f9f9f9; color:#222;">
 
-  <h1 align="center">Hi 👋, I'm Surya Settipalli</h1>
-  <h3 align="center">A passionate Java Full Stack & c++ Developer from India</h3>
-
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=surya200901&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=surya200901&theme=onedark" alt="GitHub Trophy" />
-    </a>
-  </p>
-
-  <img 
-    align="right" 
-    height="400" 
-    src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" 
-    alt="coding"
-  />
-
-  <ul>
-    <li>🔭 I’m currently working on <strong>C++ Projects</strong></li>
-    <li>🔭 Skilled in <strong>Java Spring Boot Projects</strong></li>
-<!--     <li>🌱 I’m currently learning <strong>C++ and MLOps</strong></li> -->
-    <li>👯 I’m looking to collaborate on <strong>Full Stack Java Projects</strong></li>
-    <li>🤝 I’m looking for help with <strong>Machine Learning</strong></li>
-    <li>💬 Ask me about <strong>Java, Spring Boot, C++, MySQL, HTML, CSS, JavaScript</strong></li>
-    <li>📧 How to reach me: <strong>settipallisurya1111@gmail.com</strong></li>
-  </ul>
-
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/surya-settipalli" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/surya200901" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub" />
-    </a>
-    <a href="https://surya200901.github.io/Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-blueviolet?logo=google-chrome&style=for-the-badge" alt="Portfolio" />
-    </a>
-  </p>
-
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-    <!-- same skill icons as before -->
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-    </a>
-  </p>
+  <h1 align="center">🌟 Hey there, I'm <span style="color:#0a66c2;">Surya Settipalli</span></h1>
+  <h3 align="center">🚀 Java Full Stack & C++ Enthusiast | Problem Solver | Tech Explorer</h3>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya200901&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=surya200901&show_icons=true&locale=en" alt="GitHub Stats" />
-    <br/>
-   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya200901" alt="GitHub Streak" />-->
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+         alt="Coding Animation" 
+         width="400" 
+         style="border-radius:20px; box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
+  </div>
+
+  <br/>
+
+  <h2>💡 About Me</h2>
+  <ul>
+    <li>🔥 Passionate about <b>Java Spring Boot & C++</b> projects</li>
+    <li>🛠️ Currently building <b>Smart & Real-world Applications</b></li>
+    <li>🤝 Open to collaborating on <b>Full Stack Java Projects</b></li>
+    <li>📚 Exploring <b>Machine Learning & Cloud Tech</b></li>
+    <li>💬 Ask me about <b>Java, Spring Boot, C++, MySQL, HTML, CSS, JavaScript</b></li>
+    <li>📧 Reach me at: <b>settipallisurya1111@gmail.com</b></li>
+  </ul>
+
+  <h2>🌐 Connect with Me</h2>
+  <p>
+    <a href="https://linkedin.com/in/surya-settipalli" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/surya200901" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+    </a>
+    <a href="https://surya200901.github.io/Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-6f42c1?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio"/>
+    </a>
+  </p>
+
+  <h2>🛠️ Languages & Tools</h2>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,html,css,js,cpp,postgres,vscode,idea" height="50" alt="skills"/>
+  </p>
+
+  <h2>📊 GitHub Analytics</h2>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=surya200901&show_icons=true&theme=radical" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya200901&layout=compact&theme=radical" height="160"/>
   </div>
 
 </body>
