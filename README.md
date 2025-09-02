@@ -30,7 +30,7 @@
 
   <h2>🌐 Connect with Me</h2>
   <p>
-    <a href="https://linkedin.com/in/surya-settipalli" target="_blank">
+    <a href="https://www.linkedin.com/in/surya-settipalli-87b0b4240" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/surya200901" target="_blank">
